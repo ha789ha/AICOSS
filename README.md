@@ -17,7 +17,7 @@
 1. Python >= 3.7
 2. Git으로 Repository 클론
 ```shell
-https://github.com/ha789ha/AICOSS.git
+git clone https://github.com/ha789ha/AICOSS.git
 cd AICOSS
 ```
 3. Python Requirements 설치
