@@ -31,7 +31,7 @@ python main.py
 <br>
 
 ## 수행 절차
-[링크 참조](https://ha789ha.tistory.com/)
+[링크 참조](https://ha789ha.tistory.com/95)
 
 <br>
 
